@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning OOP in C#
 - 📫 How to reach me: 
                       instagram: @tartaretta
-                      email: @leonardotartini@gmail.com
+                      email: leonardotartini@gmail.com
